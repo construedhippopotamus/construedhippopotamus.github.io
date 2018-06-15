@@ -25,6 +25,8 @@ p {
 img{
 	display: block;
 	margin: 0 auto;
+	width: 500px;
+
 }
 
 li {
@@ -45,6 +47,7 @@ a:hover {
 }
 
 #teststyle {
-	color: purple;
-	width: 500px;	
+	color: fuchsia;
+	width: 500px;
+	background-color: black;	
 }
